@@ -15,22 +15,31 @@ Procedure (Step-by-Step)
 
 Step 1:
 Open Google Colab.
+
 Step 2:
 Install the required libraries such as Ultralytics, OpenCV, and Pillow.
+
 Step 3:
 Import the required Python libraries.
+
 Step 4:
 Load the pre-trained YOLOv8 model.
+
 Step 5:
 Upload an image containing pedestrians.
+
 Step 6:
 Read the uploaded image and convert it into OpenCV format.
+
 Step 7:
 Apply the YOLOv8 model to detect objects.
+
 Step 8:
 Filter only the Person class from all detected objects.
+
 Step 9:
 Draw green bounding boxes around the detected pedestrians.
+
 Step 10:
 Display the final output image.
 
