@@ -12,6 +12,7 @@ Software Requirements
 - Image containing one or more pedestrians
 
 Procedure (Step-by-Step)
+
 Step 1:
 Open Google Colab.
 Step 2:
