@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Pedestrian-detectionCV Banner" width="100%">
-</p>
+<h1 align="center">Pedestrian-detectionCV</h1>
 
 <p align="center">
   <a href="https://colab.research.google.com/github/dipzz0/Pedestrian-detectionCV/blob/main/Pedestrian-detection.py" target="_blank"><img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"></a>
