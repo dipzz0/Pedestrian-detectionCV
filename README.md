@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/dipzz0/Pedestrian-detectionCV/blob/main/Pedestrian-detection.py" target="_blank">
-    <img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab">
-  </a>
+  <a href="https://colab.research.google.com/github/dipzz0/Pedestrian-detectionCV/blob/main/Pedestrian-detection.py" target="_blank"><img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"></a>
   <img src="https://img.shields.io/badge/Model-YOLOv8_Nano-f59e0b?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8 Nano">
   <img src="https://img.shields.io/badge/Filter-Class_0_Person-3b82f6?style=for-the-badge" alt="Class 0 Person">
   <img src="https://img.shields.io/badge/Vision-OpenCV_4.x-5c8cb8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
